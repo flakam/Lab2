@@ -1,0 +1,11 @@
+C:\Users\Flaka\source\repos\CodingClass1\CodingClass1\bin\Debug\netcoreapp2.1\CodingClass1.deps.json
+C:\Users\Flaka\source\repos\CodingClass1\CodingClass1\bin\Debug\netcoreapp2.1\CodingClass1.runtimeconfig.json
+C:\Users\Flaka\source\repos\CodingClass1\CodingClass1\bin\Debug\netcoreapp2.1\CodingClass1.runtimeconfig.dev.json
+C:\Users\Flaka\source\repos\CodingClass1\CodingClass1\bin\Debug\netcoreapp2.1\CodingClass1.dll
+C:\Users\Flaka\source\repos\CodingClass1\CodingClass1\bin\Debug\netcoreapp2.1\CodingClass1.pdb
+C:\Users\Flaka\source\repos\CodingClass1\CodingClass1\obj\Debug\netcoreapp2.1\CodingClass1.csprojAssemblyReference.cache
+C:\Users\Flaka\source\repos\CodingClass1\CodingClass1\obj\Debug\netcoreapp2.1\CodingClass1.csproj.CoreCompileInputs.cache
+C:\Users\Flaka\source\repos\CodingClass1\CodingClass1\obj\Debug\netcoreapp2.1\CodingClass1.AssemblyInfoInputs.cache
+C:\Users\Flaka\source\repos\CodingClass1\CodingClass1\obj\Debug\netcoreapp2.1\CodingClass1.AssemblyInfo.cs
+C:\Users\Flaka\source\repos\CodingClass1\CodingClass1\obj\Debug\netcoreapp2.1\CodingClass1.dll
+C:\Users\Flaka\source\repos\CodingClass1\CodingClass1\obj\Debug\netcoreapp2.1\CodingClass1.pdb
